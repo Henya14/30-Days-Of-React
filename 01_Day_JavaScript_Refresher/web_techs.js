@@ -1,0 +1,1 @@
+let web_techs = ["t1", "t2"]
